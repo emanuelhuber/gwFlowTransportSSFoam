@@ -6,7 +6,7 @@ To run this solver, you first need to install the [porousMultiphaseFoam](https:/
 
 This is an ongoing project. If you have any questions, don't hesitate to contact me:
 
-emanuel.huber@stanford.edu
+emanuel.huber@alumni.ethz.ch
 
 Thank you!
 
